@@ -1,0 +1,6 @@
+=== Resultados de Ventas ===
+Total de ventas: $2481.86
+Ventas procesadas correctamente: 46
+Ventas con errores: 0
+
+Tiempo de ejecucion: 0.001978 segundos
